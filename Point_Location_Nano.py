@@ -45,9 +45,9 @@ else:
         
         print ('centre= ', centre)
         print ('intersection1= ', intersection1)
-        print ('xchange1= ', xchange1)
+        print ('xchange= ', xchange)
         print ('intersection2= ', intersection2)
-        print ('xchange2= ', xchange2)
+        
         """intersection is found by using y=mx then rearranging pythoagoras' theorem
         to give a value to the amount the x co-ord has changed from the centre point,
         then sub back into y=mx to find the amount the y co-ord has changed:
